@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @corruptgametag(Subeer Nayak) currently a 4th year undergraduate at IITM
-- 👀 I’m interested in Machine learning and Algo based banking
-- 🌱 I’m currently learning Machine learning
+- 👋 Hi, I’m @corruptgametag(Subeer Nayak) currently a 5th year undergraduate at IITM
+- 👀 I’m interested in Data science and Algorithmic Trading
+- 🌱 I’m currently Self-Supervised Learning
 - 💞️ I’m looking to collaborate on ML and AI projects
 - 📫 reach me at nayaksubeer@gmail.com | www.linkedin.com/in/subeer-nayak
